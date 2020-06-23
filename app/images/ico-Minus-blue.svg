@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="2px" viewBox="0 0 16 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-Minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="BWC-02-a-Dashboard-Viewer-state-2" transform="translate(-1379.000000, -666.000000)" stroke="#626285" stroke-width="2">
+            <g id="Viewer" transform="translate(160.000000, 0.000000)">
+                <g id="btn-Zoom-Out" transform="translate(1203.000000, 643.000000)">
+                    <g id="ico-Minus" transform="translate(17.000000, 24.000000)">
+                        <path d="M0,0 L14,0" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

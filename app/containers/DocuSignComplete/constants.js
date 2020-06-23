@@ -1,0 +1,1 @@
+export const UPDATASTATUSUSER = 'app/user/UPDATASTATUSUSER';

@@ -1,0 +1,49 @@
+/*
+ * @NOTE: Prepend a `~` to css file paths that are in your node_modules
+ *        See https://github.com/webpack-contrib/sass-loader#imports
+ */
+/*@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700|Open+Sans:400,700');*/
+@import url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400,700');
+@font-face {
+  font-family: 'icomoon';
+  src: url('./components/Icons/icomoon/fonts/icomoon.eot?t6nep4');
+  src: url('./components/Icons/icomoon/fonts/icomoon.eot?t6nep4#iefix') format('embedded-opentype'),
+  /*url('../components/Icons/fonts/icomoon.ttf?t6nep4') format('truetype'),*/
+  url('./components/Icons/icomoon/fonts/icomoon.woff?t6nep4') format('woff'),
+  url('./components/Icons/icomoon/fonts/icomoon.svg?t6nep4#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  height: 100%;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  margin: 0;
+  font-weight:normal;
+  background: #fff;
+  min-height: 100%;
+  position: relative;
+  font-family: 'Open Sans', sans-serif !important;
+
+}
+
+/* Change autocomplete styles in WebKit */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  background-color: #fff;
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
+@import url('./components/Icons/icomoon/style.css');
+

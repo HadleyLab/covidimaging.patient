@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-Edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Main-Screen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-User-info" transform="translate(-1065.000000, -263.000000)">
+            <g id="User-info-popup" transform="translate(1039.000000, 48.000000)">
+                <g id="Edit" transform="translate(1.000000, 204.000000)">
+                    <g id="ico-Edit" transform="translate(25.000000, 11.000000)">
+                        <g id="edit-2">
+                            <g id="Shape">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask" fill-rule="nonzero"></g>
+                                <path d="M1.48888889,11.2671855 L1.48888889,14.0563337 C1.48888889,14.2772476 1.66797499,14.4563337 1.88888889,14.4563337 L4.67803704,14.4563337 L14.2931527,4.84121805 C14.4493624,4.68500834 14.4493624,4.43174235 14.2931527,4.27553263 L11.6696899,1.65206991 C11.5134802,1.49586019 11.2602142,1.49586019 11.1040045,1.65206991 L1.48888889,11.2671855 Z" stroke="#73738B" stroke-width="1.2" mask="url(#mask-2)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
